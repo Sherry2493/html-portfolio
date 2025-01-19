@@ -2,4 +2,4 @@
 
 This repository contains my HTML portfolio project.
 
-[Click here to view this repository](https://github.com/Sherry2493/html-portfolio)
+[Click here to view this repository](https://sherry2493.github.io/html-portfolio/)
